@@ -1,3 +1,3 @@
 # NTHU-JetBot-RealWorld
 
-Main Development Files in under "final_project"
+Using files under "final_project"
